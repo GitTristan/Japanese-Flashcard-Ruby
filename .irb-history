@@ -1,0 +1,66 @@
+1+2
+4.method
+4.methods
+hash = { "front" => "cat"}
+hash["front"]
+hash[3] 
+TBHW2.rb
+"Hello world".class
+"Hello world".class.class
+exit]
+Book
+book.new = "Calvin and Hobbs"
+book
+book.name = "Calvin and Hobbs"
+book_2 = Book.new name: "Charlie Brown", pages 150
+book_2 = Book.new name: "Charlie Brown", pages: 150
+book_2 = Book.find
+book_2 = Book.find 2
+book_2.name = "Charlie Brown's Great Pumpkin"
+book_2.save
+book_2.destroy
+book_3 = Book.new name: "Tinker Bell", pages: 250
+book_3.save
+book_4 = Book.new name: "Books for Dummies"", pages: 322
+book_4.save
+book_5 = Book.new name: "Books for me", pages: 399
+book_5.save
+book_6 = Book.new name: "Rails for Dummies", pages: 174
+book_6.save
+Book.all
+review =Review.new name: "Tristan's Book", rating 4, body: "ok book"
+Book.last.reviews
+reload!
+review = Review.new name: "Tristan's Book", rating 4, body: "ok book"
+review = book.review.new
+review = Review.new name: "Tristan's Book", rating:4, body: "ok book"
+book.reviews.count
+Book.find
+book = Book.last
+link_to
+polymorphic_path(Book.first)
+review_2 = Reviews.new
+book.review << Review.new(name:"Guy", rating: 4, body:"This Book was grrrreat")
+review.attributes = {name: "Billy Bob", rating: 1, body: "It was ok"}
+book = Book.4
+book = Book.id:4
+book = Book.list
+ls
+book = Book.all
+book = Book id: 4
+book = Book.second
+book = Book.fourth
+book = Book.first
+book.reviews
+review = book.reviews.new
+review.attributes = {name: "Guy", rating: 4, body: "It was great /n"}
+review.save
+book.find
+book = Book.find
+book = Book.find id 4
+book = Book.find 4
+book = Book.new
+book.errors.full_messages
+book.name = "Old Timers"
+book.save
+exit

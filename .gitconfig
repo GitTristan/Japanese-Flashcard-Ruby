@@ -1,0 +1,13 @@
+[color]
+	ui = true
+[alias]
+  st = status
+  di = diff
+  ci = commit
+  br = branch
+  llog = log --date=local
+[rerere]
+  enabled = true
+[user]
+	name = Tristan
+	email = tristan@rubadeau.com
